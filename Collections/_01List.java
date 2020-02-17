@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class _01List {
+public class _01List {
     public static void main(String[] args) {
         List<String> l1 = initialiseStringList();
         List<String> l2 = initialiseStringList();

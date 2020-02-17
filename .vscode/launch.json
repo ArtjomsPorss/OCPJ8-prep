@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - _02Set",
+            "request": "launch",
+            "mainClass": "_02Set",
+            "projectName": "OCPJ8-prep_b8c997e5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - _01List",
             "request": "launch",
             "mainClass": "_01List",
